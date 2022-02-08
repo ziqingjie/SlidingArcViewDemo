@@ -1,0 +1,13 @@
+
+  HBuilder|HBuilderX应用云端打包Android平台默认使用的DCloud公用证书，其信息如下：
+  MD5： 59:20:1C:F6:58:92:02:CB:2C:DA:B2:67:52:47:21:12
+  SHA1：BA:AD:09:3A:82:82:9F:B4:32:A7:B2:8C:B4:CC:F0:E9:F3:7D:AE:58
+  SHA256：D7:5C:1F:A2:B9:AE:86:7C:E6:88:A8:AD:C6:DE:AC:7C:D6:BA:96:F4:3A:75:1F:D1:0A:20:0F:A5:97:4A:C6:36
+
+  应用签名: 59201cf6589202cb2cdab26752472112
+  详情如下：
+
+  签名证书KeyStore文件下载地址HBuilder.keystore
+  证书别名：hbuilder
+  证书密码：123456
+  keystore密码：123456

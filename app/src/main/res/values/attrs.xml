@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingArcView">
+        <attr name="arcWidth" format="dimension"/>
+        <attr name="mTextSize" format="dimension"/>
+        <attr name="mRadius" format="dimension" />
+        <attr name="visibleItemCount" format="integer" />
+        <attr name="yOffset" format="dimension" />
+    </declare-styleable>
+</resources>
